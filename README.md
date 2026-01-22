@@ -1,2 +1,2 @@
-# OffSec-TheGauntle
+# OffSec-TheGauntlet
 fah
